@@ -41,3 +41,12 @@ ImageBackground，其实是个容器，里面包含其他子组件
 
 >10. switch.js
 > switch和this.state的绑定
+
+>11. scrollView.js
+> 基本介绍，以及水平和垂直滚动
+
+>12. swiper.js
+> 第三方库，react-native-swiper的基本应用 
+
+>naviagtion/container.js
+> demo,stack模式的导航，包括导航header设置，页面间传参
